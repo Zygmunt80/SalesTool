@@ -15,7 +15,8 @@ public class Main {
 		System.out.println("THIS APP SHOWS SALES DATA");
 		
 		System.out.println("TEST 1");
-
+		System.out.println("Line added with Desktop GitHub");
+		System.out.println("This line is added with Eclipse");
 	}
 
 }
